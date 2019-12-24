@@ -1,5 +1,5 @@
 package com.tu.coreUtils;
 
-public class BusinessFunction {
+public class GenericWrapper {
 
 }
